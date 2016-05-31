@@ -1,6 +1,6 @@
 <options xmlns="http://marklogic.com/appservices/search">
     <constraint name="modified">
-        <range type="xs:string">
+        <range type="xs:dateTime">
             <element ns="http://marklogic.com/xdmp/property" name="last-modified"/>
             <fragment-scope>properties</fragment-scope>
         </range>

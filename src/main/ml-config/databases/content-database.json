@@ -4,7 +4,7 @@
   "range-element-index": [
     {
       "invalid-values": "reject",
-      "collation": "",
+      "collation": "http://marklogic.com/collation/",
       "localname": "last-modified",
       "namespace-uri": "http://marklogic.com/xdmp/property",
       "range-value-positions": false,
