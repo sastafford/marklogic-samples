@@ -1,0 +1,14 @@
+{
+  "database-name": "%%DATABASE%%",
+  "maintain-last-modified": true,
+  "range-element-index": [
+    {
+      "invalid-values": "reject",
+      "collation": "",
+      "localname": "last-modified",
+      "namespace-uri": "http://marklogic.com/xdmp/property",
+      "range-value-positions": false,
+      "scalar-type": "dateTime"
+    }
+  ]
+}
